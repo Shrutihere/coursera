@@ -1,0 +1,37 @@
+*{
+  font-family: Comic Sans MS;
+}
+
+.container-fluid .navbar-brand {
+    font-size: 3em;
+    margin: 5px;
+}
+navbar-toggle: hover{
+  color: white;
+}
+
+
+.container-fluid{
+  background-color:	#FFDAB9;
+}
+#myNavbar {
+  font-size: 2em;
+  text-align: center;
+  background-color: #98FB98;
+}
+.body {
+  background-color: #98F998;
+}
+.title{
+  text-align: center;
+  font-family: Comic Sans MS;
+}
+
+.tile{
+  background-color:	#FFDAB9;
+  margin: 35px;
+  padding: 25px;
+}
+.tile h2{
+  text-align: center;
+}
