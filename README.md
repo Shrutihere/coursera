@@ -1,2 +1,2 @@
 # coursera
-This reppossitory contains all the assignments of the course.
+This repository contains all the assignments of the course.
